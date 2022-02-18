@@ -7,7 +7,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 -- Bottazzi, Cristian - 2017 (https://github.com/cristian1604/)
 
 -- Uncomment the following library declaration if instantiating
--- any Xilinx primitives in this code.
+-- any Xilinx primitives in this code..
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
